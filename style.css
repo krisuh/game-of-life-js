@@ -1,0 +1,7 @@
+
+.cell {
+    border: solid thin;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
